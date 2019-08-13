@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - health_stats (0.0.1):
+    - Flutter
+  - OpenTok (2.15.3)
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios-release`)
+  - health_stats (from `.symlinks/plugins/health_stats/ios`)
+  - OpenTok
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - OpenTok
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios-release"
+  health_stats:
+    :path: ".symlinks/plugins/health_stats/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
+  health_stats: 604b345bde2742a4a25f3dc867f516a15a7abcee
+  OpenTok: fde03ecc5ea31fe0a453242847c4ee1f47e1d735
+
+PODFILE CHECKSUM: c1ac2a052680954e79b117f578559b37fe9dda4d
+
+COCOAPODS: 1.7.0
